@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # This is an example of a nested loop
 # Nested loops are loops inside of loops
 # the left_num will increment slower than the right_num
