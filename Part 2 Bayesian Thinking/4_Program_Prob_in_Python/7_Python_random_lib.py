@@ -20,6 +20,10 @@ print("c is", c)
 print("\n Now keep pressing Ctrl+Enter to run this cell many times! \n")
 
 
+print (" choice([1, 2, 3, 5, 9]) : ", rd.choice([1, 2, 3, 5, 9]))
+print (" \n choice('A String') : ", rd.choice('A String'))
+
+
 # OUTPUT 
 """
 a is 0.10238654130832847
@@ -28,6 +32,3 @@ c is 0.22159596793722303
 
 Now keep pressing Ctrl+Enter to run this cell many times! 
 """
-
-print (" choice([1, 2, 3, 5, 9]) : ", rd.choice([1, 2, 3, 5, 9]))
-print (" \n choice('A String') : ", rd.choice('A String'))
