@@ -41,7 +41,10 @@ def show_roll_data(roll_counts):
     
     for dice_side, frequency in enumerate(roll_counts):
         print(dice_side + 1, "was rolled", frequency, "times")
-        
+ 
+
+
+# RUN FUNCTION 
 roll_data = simulate_dice_rolls(10000)
 show_roll_data(roll_data)
 
