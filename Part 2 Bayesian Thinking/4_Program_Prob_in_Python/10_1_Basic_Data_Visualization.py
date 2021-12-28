@@ -22,7 +22,6 @@ def visualize_one_die(roll_data):
 
     fig, ax = plt.subplots()
     ax.bar(roll_outcomes, roll_data)    # (x,y)
-
     ax.set_xlabel("Value on Die")
     ax.set_ylabel("# rolls")
     ax.set_title("Simulated Counts of Rolls")
