@@ -24,3 +24,14 @@ print("Random number:", random_number,"\n")
 print("In", num_trials, "trials there were", heads, "heads and", tails, "tails. \n")
 print("PERCENT HEADS:", 100 * heads/num_trials, "percent \n")
 print("PERCENT TAILS:", 100 * tails/num_trials, "percent")
+
+
+## OUTPUT 
+
+"""Random number: 0.5329357409498365 
+
+In 100 trials there were 42 heads and 58 tails. 
+
+PERCENT HEADS: 42.0 percent 
+PERCENT TAILS: 58.0 percent
+"""
