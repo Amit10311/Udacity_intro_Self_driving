@@ -32,3 +32,10 @@ def simulate_coin_flips(num_trials):
     
 percentage = simulate_coin_flips(200) # calling the function
 print(percentage)
+
+
+## Run Function 
+print(simulate_coin_flips(1000000))
+
+# OUTPUT 
+# 50.0113
