@@ -33,6 +33,6 @@ item is a
 item is b
 item is """
 
-""" 3 OUTPUT 
-The len function is important!
-my_list has 6 elements """
+# 3 OUTPUT 
+# The len function is important!
+# my_list has 6 elements 
