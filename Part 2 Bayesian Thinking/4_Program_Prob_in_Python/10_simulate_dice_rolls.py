@@ -20,8 +20,7 @@ def simulate_dice_rolls(N):
         roll = rd.choice([1,2,3,4,5,6]) 
 
         # Recall indices start at 0 so we need to decrement
-        index = roll - 1
-        
+        index = roll - 1      
         roll_counts[index] = roll_counts[index] + 1
     return roll_counts
 
