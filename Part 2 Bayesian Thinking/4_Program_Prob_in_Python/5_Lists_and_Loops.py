@@ -43,13 +43,13 @@ item is """
 # my_list has 6 elements 
 
 
-""" 4 OUTPUT 
-A less great way to loop through a list... 
+# 4 OUTPUT 
+# A less great way to loop through a list... 
 
-item is 1
-item is 2
-item is 3
-item is a
-item is b
-item is c
-"""
+# item is 1
+# item is 2
+# item is 3
+# item is a
+# item is b
+# item is c
+
