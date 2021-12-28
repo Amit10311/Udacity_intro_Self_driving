@@ -19,7 +19,7 @@ print("c is", c)
 
 # 7.1 Python number method choice() returns a random item from a list, tuple, or string.
 
-print (" choice([1, 2, 3, 5, 9]) : ", rd.choice([1, 2, 3, 5, 9]))
+print (" choice([1, 2, 3, 5, 9]) : ", rd.choice([1, 2, 3, 5, 6]))
 print (" \n choice('A String') : ", rd.choice('A String'))
 
 
