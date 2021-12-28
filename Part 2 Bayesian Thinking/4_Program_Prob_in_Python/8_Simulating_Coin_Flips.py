@@ -30,7 +30,7 @@ print("PERCENT TAILS:", 100 * tails/num_trials, "percent")
 
 """Random number: 0.5329357409498365 
 
-# In 100 trials there were 42 heads and 58 tails. 
+In 100 trials there were 42 heads and 58 tails. 
 
 PERCENT HEADS: 42.0 percent 
 PERCENT TAILS: 58.0 percent
