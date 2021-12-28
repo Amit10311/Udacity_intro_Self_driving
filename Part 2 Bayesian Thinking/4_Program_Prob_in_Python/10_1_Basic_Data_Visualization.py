@@ -27,5 +27,7 @@ def visualize_one_die(roll_data):
     ax.set_title("Simulated Counts of Rolls")
     plt.show()
     
+    
+# RUN FUNCTION     
 roll_data = simulate_dice_rolls(900)
 visualize_one_die(roll_data)
