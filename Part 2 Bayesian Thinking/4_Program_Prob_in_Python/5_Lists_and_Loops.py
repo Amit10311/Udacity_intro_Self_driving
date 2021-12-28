@@ -25,6 +25,14 @@ for index in range(len(my_list)):
     print("item is", item)
     
 
+# 5. Looping through a partial list
+print("Slicing a list from beginning... \n ")
+
+for item in my_list[:3]:
+    print("item is", item)
+ 
+
+
 #### OUTPUT 
 
 # my_list is: [1, 2, 3, 'a', 'b', 'c']
@@ -53,3 +61,10 @@ item is a
 item is b
 item is c
 """
+
+""" 5 OUTPUT 
+Slicing a list from beginning... 
+ 
+item is 1
+item is 2
+item is 3 """
