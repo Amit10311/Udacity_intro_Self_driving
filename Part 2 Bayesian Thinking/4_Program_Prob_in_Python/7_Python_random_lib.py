@@ -23,9 +23,14 @@ print (" choice([1, 2, 3, 5, 9]) : ", rd.choice([1, 2, 3, 5, 9]))
 print (" \n choice('A String') : ", rd.choice('A String'))
 
 
+
 # OUTPUT 
-"""
+
+"""  rd variables 
 a is 0.10238654130832847
 b is 0.7437640456564217
 c is 0.22159596793722303
 """
+
+#  choice([1, 2, 3, 5, 9]) :  3
+#  choice('A String') :  g
