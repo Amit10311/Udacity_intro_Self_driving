@@ -34,9 +34,9 @@ def show_roll_data(roll_counts):
     Returns:
         list: roll counts [1,6]
     """ 
+    
     # Gets the number of sides of the dice and prints
-    # the side of the die.
-     
+    # the side of the die.    
     # enumerate creates the position of the die and the list value
     
     for dice_side, frequency in enumerate(roll_counts):
