@@ -31,6 +31,11 @@ print("Slicing a list from beginning... \n ")
 for item in my_list[:3]:
     print("item is", item)
  
+# 5.2 Looping through a partial list again
+print("Slicing a list to the end... \n ")
+
+for item in my_list[3:]:
+    print("item is", item)
 
 
 #### OUTPUT 
@@ -68,3 +73,10 @@ Slicing a list from beginning...
 item is 1
 item is 2
 item is 3 """
+
+
+"""Slicing a list to the end... 
+ 
+item is a
+item is b
+item is c """
