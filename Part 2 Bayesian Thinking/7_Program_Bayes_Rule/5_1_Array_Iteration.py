@@ -22,8 +22,9 @@ for index in range(0, length):
         print('We\'ve reached the middle of the road and we\'re leaving the loop!')
         break
         
-    
-"" OUTPUT ""
+
+        
+"" OUTPUT 1 ""
 
 "" road[0] = r
 road[1] = r
@@ -32,3 +33,11 @@ road[3] = r
 road[4] = r
 road[5] = s
 road[6] = r ""
+
+
+"" OUTPUT 2 
+0
+1
+2
+3
+We've reached the middle of the road and we're leaving the loop! ""
