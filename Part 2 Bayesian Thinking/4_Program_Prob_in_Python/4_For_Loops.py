@@ -6,6 +6,7 @@ for i in range(6):
     
 """
 1 - demonstrating for loop
+
 0
 1
 2
