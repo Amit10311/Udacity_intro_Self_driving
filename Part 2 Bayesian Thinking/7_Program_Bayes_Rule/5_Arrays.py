@@ -8,7 +8,7 @@ road = np.array(['r', 'r', 'r', 'r', 'r', 's', 'r'])
 print('The length of this array is: ' + str(len(road)))
 
 
-#  Read the values in an array
+# 2. Read the values in an array
 # Access the first index and read its value
 value = road[0]
 print('\n')
