@@ -19,3 +19,23 @@ def find_stop_index(road):
             break
 
     return stop_index
+
+
+
+import numpy as np
+
+# The 1x7 road
+road = np.array(['r', 'r', 'r', 'r', 'r', 's', 'r'])
+
+find_stop_index(road)
+
+
+
+"" OUTPUT 
+r
+r
+r
+r
+r
+s
+We've reached the middle of the road and we're leaving the loop! "" 
