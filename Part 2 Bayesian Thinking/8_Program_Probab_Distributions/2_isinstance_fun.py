@@ -7,7 +7,7 @@ is_sqr_root_2_a_float = isinstance(sqr_root_2, float)
 print("Is square root two a float?", is_sqr_root_2_a_float)
 
 
-"" OUPUT ""
 
+"" OUPUT ""
 # Is square root two an integer? False
 # Is square root two a float? True
