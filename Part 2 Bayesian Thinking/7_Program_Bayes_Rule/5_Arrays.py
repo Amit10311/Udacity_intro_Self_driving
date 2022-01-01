@@ -48,9 +48,7 @@ print('Are the first and last values equal? ' +str(equal))
 
 # 1. The length of this array is: 7
 
-""  
-Sol 2 
+""  Sol 2 
 Value at index [0] = r
 Value at index [-1] = r
-Are the first and last values equal? True  
-""
+Are the first and last values equal? True  ""
