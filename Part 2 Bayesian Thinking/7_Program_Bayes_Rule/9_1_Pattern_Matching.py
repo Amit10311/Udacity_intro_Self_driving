@@ -37,9 +37,9 @@ def find_match(world, measurement):
     return possible_locations
    
 
+    
 # This line runs the function and stores the output - do not delete 
 import numpy as np
-
 # A 4x5 robot world of characters 'o' and 'b'
 world = np.array ([ ['o', 'b', 'o', 'o', 'b'],
                     ['o', 'o', 'b', 'o', 'o'],
@@ -48,5 +48,8 @@ world = np.array ([ ['o', 'b', 'o', 'o', 'b'],
 
 # Sensor measurement
 measurement = ['b', 'o']
-
 locations = find_match(world, measurement)
+
+
+
+#  OUTPUT :[[0, 1], [1, 2], [2, 0], [2, 3], [3, 0]] 
