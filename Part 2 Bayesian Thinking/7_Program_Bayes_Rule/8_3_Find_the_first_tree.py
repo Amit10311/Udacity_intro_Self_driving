@@ -1,4 +1,5 @@
-3. Find the first tree, 1, in the world
+# 3. Find the first tree, 1, in the world
+
 # This function is similar to our iterate2D function,
 # But looks for the first tree in the array and prints its location [x][y]
 
@@ -15,6 +16,8 @@ def first_tree(world):
 
             
 # Call the first_tree function
-
 first_tree(world)
-First tree found at location: [0][3]
+
+
+
+# OUTPUT : First tree found at location: [0][3]
